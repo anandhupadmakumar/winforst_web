@@ -48393,7 +48393,7 @@ r.bv$=null
 r.aG()}}
 A.IT.prototype={}
 A.a4T.prototype={
-pM(a){return B.Ng},
+pM(a){return B.Nh},
 wq(a,b,c,d){var s,r,q,p=null,o=A.af(a)
 a.aA(t.bZ)
 s=A.af(a)
@@ -78009,7 +78009,7 @@ n=J.x7(50,s)
 for(q=0;q<50;++q)n[q]=""+(4000+q)
 this.ax.sq(A.c([new A.eP("First Prize","100,000 THB",l),new A.eP("Second Prize","50,000 THB",m),new A.eP("Third Prize","5,000 THB",r),new A.eP("4th Prize","2,000 THB",p),new A.eP("5th Prize","1,000 THB",o),new A.eP("6th Prize","500 THB",n)],t.bh))}}
 A.J1.prototype={
-N(a){return new A.z3(new A.a5A(),!0,!0,B.Nh,null)}}
+N(a){return new A.z3(new A.a5A(),!0,!0,B.Ng,null)}}
 A.a5A.prototype={
 $2(a,b){return new A.nY(B.KZ,"Lottery Results",A.t9(null,null,B.jB,!0),!1,new A.FQ(new A.a5z()),null)},
 $S:497}
@@ -78091,7 +78091,7 @@ q=A.Y(new A.a3(q,new A.a6F(a,b),p),p.i("ap.E"))
 return A.iv(A.c([new A.kO(n,a,1/0,!0,o),r,A.aoK(B.kD,q,24,24)],t.E),B.aD,B.aU)}}
 A.a6J.prototype={
 $2(a,b){var s,r,q,p,o,n,m,l,k,j=null,i=b.b,h=i>900
-if(h)i=1000*$.ad().gbE()
+if(h)i=1440*$.ad().gbE()
 s=this.a
 r=s.a_7(h)
 q=A.d8(j,40*$.ad().gbl(),j)
@@ -84384,10 +84384,10 @@ B.Nc=new A.a1(B.e7,!1,!1,!1,!0,B.m)
 B.Nd=new A.a1(B.cs,!0,!1,!1,!1,B.aM)
 B.Ne=new A.E(1e5,1e5)
 B.xN=new A.E(10,10)
+B.Ng=new A.E(1440,1024)
 B.hr=new A.E(1,1)
 B.xO=new A.E(1,-1)
-B.Ng=new A.E(22,22)
-B.Nh=new A.E(360,690)
+B.Nh=new A.E(22,22)
 B.Nj=new A.E(48,36)
 B.Nk=new A.E(48,48)
 B.Nm=new A.E(80,47.5)
