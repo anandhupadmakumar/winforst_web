@@ -80944,7 +80944,7 @@ if(s!=null)s.aF()
 this.d.l()
 this.aJ()},
 O(a){var s=null,r=$.ah().gbR(),q=$.ah().gbw(),p=A.d1(0,800),o=A.d1(0,50)
-return A.dA(A.ok(new A.BY("12 DEC 2025 DRAW DATE ",B.hG,A.dM(s,s,B.j,s,s,s,s,s,s,s,s,$.ah().cl(14),s,s,B.bf,s,s,!0,s,s,s,s,s,s,s,s),5,p,o,B.P_,new A.fZ(new A.h(150,0)),!0,s),s,s),100*q,150*r)}}
+return A.dA(A.ok(new A.BY("30 DEC 2025 DRAW DATE ",B.hG,A.dM(s,s,B.j,s,s,s,s,s,s,s,s,$.ah().cl(14),s,s,B.bf,s,s,!0,s,s,s,s,s,s,s,s),5,p,o,B.P_,new A.fZ(new A.h(150,0)),!0,s),s,s),100*q,150*r)}}
 A.aio.prototype={
 $1(a){var s=this.a
 s.e=A.agX(B.DV,new A.ain(s))},
